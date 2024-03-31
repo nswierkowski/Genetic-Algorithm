@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\NikodemŚwierkowski(2\source\repos\TEP_mini_projekt\TEP_mini_projekt\Main.cpp(10,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\NikodemŚwierkowski(2\source\repos\TEP_mini_projekt\TEP_mini_projekt\Main.cpp(13,67): warning C4305: "argument": obcięcie z "double" do "float"
+  TEP_mini_projekt.vcxproj -> C:\Users\NikodemŚwierkowski(2\source\repos\TEP_mini_projekt\x64\Debug\TEP_mini_projekt.exe
